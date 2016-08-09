@@ -1,6 +1,6 @@
 {
   "name": "buble-riot-rollup-starter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "title": "buble-riot-rollup-starter",
   "description": "A starter project to build Riot applications with Bublé and Rollup.",
   "keywords": [
