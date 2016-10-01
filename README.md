@@ -1,4 +1,8 @@
-# buble-riot-rollup-starter [![Build Status](https://travis-ci.org/nerdstep/buble-riot-rollup-starter.svg?branch=master)](https://travis-ci.org/nerdstep/buble-riot-rollup-starter) [![npm version](https://img.shields.io/npm/v/buble-riot-rollup-starter.svg?style=flat)](https://www.npmjs.com/package/buble-riot-rollup-starter) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
+# buble-riot-rollup-starter
+[![Build Status](https://travis-ci.org/nerdstep/buble-riot-rollup-starter.svg?branch=master)](https://travis-ci.org/nerdstep/buble-riot-rollup-starter)
+[![Dependency Status](https://gemnasium.com/badges/github.com/nerdstep/buble-riot-rollup-starter.svg)](https://gemnasium.com/github.com/nerdstep/buble-riot-rollup-starter)
+[![npm version](https://img.shields.io/npm/v/buble-riot-rollup-starter.svg?style=flat)](https://www.npmjs.com/package/buble-riot-rollup-starter)
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 > A starter project to build [Riot](http://riotjs.com/) applications with [Bublé](https://buble.surge.sh/guide/) and [Rollup](http://rollupjs.org/).
 
