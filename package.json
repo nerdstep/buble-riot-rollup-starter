@@ -1,6 +1,6 @@
 {
   "name": "buble-riot-rollup-starter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "title": "buble-riot-rollup-starter",
   "description": "A starter project to build Riot applications with Bublé and Rollup.",
   "keywords": [
@@ -25,22 +25,22 @@
     "node": ">=5.0.0"
   },
   "dependencies": {
-    "riot": "^2.6.2"
+    "riot": "^2.6.4"
   },
   "devDependencies": {
-    "browser-sync": "^2.17.0",
-    "npm-run-all": "^3.1.0",
+    "browser-sync": "^2.17.5",
+    "npm-run-all": "^3.1.1",
     "onchange": "^3.0.2",
-    "rollup": "^0.36.1",
+    "rollup": "^0.36.3",
     "rollup-plugin-buble": "^0.14.0",
-    "rollup-plugin-commonjs": "^5.0.4",
+    "rollup-plugin-commonjs": "^5.0.5",
     "rollup-plugin-node-globals": "^1.0.9",
     "rollup-plugin-node-resolve": "^2.0.0",
     "rollup-plugin-replace": "^1.1.1",
     "rollup-plugin-riot": "^0.4.3",
     "rollup-plugin-uglify": "^1.0.1",
     "snazzy": "^5.0.0",
-    "standard": "^8.3.0"
+    "standard": "^8.4.0"
   },
   "scripts": {
     "prebuild": "npm run std --silent",
